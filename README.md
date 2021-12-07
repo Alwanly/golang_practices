@@ -1,1 +1,1 @@
-# golang_practices
+# Project Go
